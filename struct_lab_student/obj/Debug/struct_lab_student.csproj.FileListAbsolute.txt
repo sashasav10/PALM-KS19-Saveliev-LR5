@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.exe.config
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.exe
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.pdb
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.csprojAssemblyReference.cache
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.exe
+C:\Users\user\source\repos\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.pdb
